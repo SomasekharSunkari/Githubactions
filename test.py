@@ -2,7 +2,7 @@
 # This is a test commit
 #This is another test commit added 
 def add(a, b):
-    print(`{a} and {b }`)
+    #print(`{a} and {b }`)
     return a + b
 
 def test_add():
